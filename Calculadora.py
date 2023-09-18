@@ -1,7 +1,6 @@
 "Calculadora.py"
 #Calculadora criada com a Linguagem de Programação Python
 
-
 primeironumero = input('Digite o Primeiro Número:')
 operador = input('Digite o Operador:')
 segundonumero = int(input('Digite o Segundo Número:'))
